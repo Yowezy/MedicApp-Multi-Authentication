@@ -28,15 +28,16 @@ Medic App is a web-based application built using the Laravel framework and follo
 5. Generate a new application key: 
 `php artisan key:generate`
 6. Create a new database and update the .env file with your database credentials:
-```DB_DATABASE=your_database_name
+```.env DB_DATABASE=your_database_name
 DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
 ```
 7. Run migrations: 
-``` php artisan migrate```
-
-
-
+`php artisan migrate`
+8. Seed the database:
+`php artisan db:seed` 
+9. Start the server:
+`php artisan serve`
 
 
 ## License
