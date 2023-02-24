@@ -16,6 +16,13 @@ Medic App is a web-based application built using the Laravel framework and follo
 * Laravel Framework v9.51.0
 
 
+## Installation
+1. Clone the repository:
+`git clone https://github.com/<your-username>/medic-app.git`
+2. Change into the project directory: 
+`cd medic-app`
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
