@@ -1,14 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png"></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
 ### Medic App
 Medic App is a web-based application built using the Laravel framework and following the Model-View-Controller (MVC) structural design pattern. The app provides a platform for managing Covid-19 patient records, preventing data duplication, and minimizing data loss. The application supports multi-authentication roles and provides a user-friendly interface for managing the system.
 
@@ -29,7 +20,7 @@ Medic App is a web-based application built using the Laravel framework and follo
 1. Clone the repository:
 `git clone https://github.com/Yowezy/MedicApp-Multi-Authentication.git`
 2. Change into the project directory: 
-`cd medic-app`
+`cd MedicApp-Multi-Authentication`
 3. Install dependencies:
 `composer install`
 4. Create a copy of the .env.example file and rename it to .env:
@@ -65,6 +56,15 @@ Contributions are welcome! Please follow the following steps to contribute:
 3. Make your changes and commit them with a descriptive commit message.
 4. Push your changes to your forked repository.
 5. Create a pull request to the original repository.
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
 ## License
 
