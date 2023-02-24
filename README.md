@@ -9,7 +9,7 @@
 
 
 
-<p align="center"><img src="[https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png]"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png"></p>
 
 
  ![logo-white](https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png)
