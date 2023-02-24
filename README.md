@@ -32,6 +32,8 @@ Medic App is a web-based application built using the Laravel framework and follo
 DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
 ```
+7. Run migrations: 
+``` php artisan migrate```
 
 
 
