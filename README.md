@@ -39,6 +39,25 @@ DB_PASSWORD=your_database_password
 9. Start the server:
 `php artisan serve`
 
+## Usage
+Visit http://localhost:8000 in your web browser to access the app. You will be prompted to log in with your credentials.
+
+# The application has two types of users: admin and medical staff.
+
+## Admin User
+The admin user can manage all hospitals' patient records, view all records, create new records, update existing records, and delete records. The admin can also assign roles to users to make them admins.
+
+## Medical Staff User
+The medical staff user can view patient records for their assigned hospital, create new records, update existing records, and delete records for their assigned hospital.
+
+## Contributing
+Contributions are welcome! Please follow the following steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with a descriptive commit message.
+4. Push your changes to your forked repository.
+5. Create a pull request to the original repository.
 
 ## License
 
