@@ -18,11 +18,18 @@ Medic App is a web-based application built using the Laravel framework and follo
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/Yowezy/MedicApp-Multi-Authentication.git`
+```tirmenal git clone https://github.com/Yowezy/MedicApp-Multi-Authentication.git'''
 2. Change into the project directory: 
 `cd medic-app`
 3. Install dependencies:
 `composer install`
+4. Create a copy of the .env.example file and rename it to .env:
+`cp .env.example .env`
+5. Generate a new application key: 
+`php artisan key:generate`
+
+
+
 
 
 ## License
