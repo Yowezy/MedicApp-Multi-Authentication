@@ -8,14 +8,12 @@
 </p>
 
 
-
 <p align="center"><img src="https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png"></p>
-
-
- ![logo-white](https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png)
 
  
 ## About Laravel
+
+<p align="center"><img src="https://user-images.githubusercontent.com/79900070/221207139-a48d356d-2b50-46f1-b697-eb6e39912858.png"></p>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
